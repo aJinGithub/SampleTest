@@ -1,0 +1,8 @@
+
+public class GitFolder {
+	
+	public static void main(String[] args) {
+		System.out.println("into Git Folder");
+	}
+
+}
